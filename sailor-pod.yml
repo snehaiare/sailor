@@ -5,7 +5,7 @@ metadata:
 spec:
   containers: 
   - name: sailorcon
-    image: #specify image
+    image: snehaiare/sailor:1.0
     resources:
       limits:
         memory: "128Mi"
